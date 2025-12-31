@@ -3,6 +3,8 @@
 THINKnACT is a full-stack MERN (MongoDB, Express, React, Node.js) web application inspired by a **YouTube tutorial**.  
 This project was built by following the **“MERN ThinkBoard” tutorial** and customized into this version.
 
+🌐 **Live Project:** https://mern-thinknact.onrender.com/
+
 ---
 
 ## 🧠 About the Original Tutorial
